@@ -18,7 +18,7 @@ This is a a Repository containing the design ot the FPGA SoC Music Player
 
 ## Introduction
 
-For the second lab in ECE 224, we developed a digital audio player using an Altera FPGA-based NIOS II system. This project focused on integrating various hardware IP cores and software components to enable audio playback from a MicroSD card, controlled through an LCD-based user interface and push-button inputs. By leveraging embedded programming and hardware description languages (HDL), we implemented a fully functional music player while gaining practical experience with system-on-chip (SoC) design and software-hardware integration.
+I developed a digital audio player using an Altera FPGA Max10 on the NIOS II core. This project focused on integrating various hardware IP cores and software components to enable audio playback from a MicroSD card, controlled through an LCD-based user interface and push-button inputs. By leveraging embedded programming and hardware description languages (HDL), we implemented a fully functional music player while gaining practical experience with system-on-chip (SoC) design and software-hardware integration.
 
 ## Features
 
